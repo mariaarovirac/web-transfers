@@ -1,0 +1,17 @@
+# WordPress core
+wp-config.php
+wp-content/uploads/
+wp-content/cache/
+wp-content/upgrade/
+wp-content/advanced-cache.php
+
+# Sistema
+.DS_Store
+*.log
+*.sql
+*.sqlite
+*.env
+.idea/
+.vscode/
+node_modules/
+vendor/
